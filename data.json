@@ -1,0 +1,162 @@
+[
+    {
+        "name": "c",
+        "username": "c",
+        "password": "1",
+        "email": "c@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "e",
+        "username": "e",
+        "password": "",
+        "email": "e@gmail.com",
+        "dob": "2023-09-07",
+        "phone_number": "2",
+        "age": "12",
+        "address": "aaaa"
+    },
+    {
+        "name": "f",
+        "username": "f",
+        "password": "",
+        "email": "f@gmail.com",
+        "dob": "2023-09-12",
+        "phone_number": "234234",
+        "age": "13",
+        "address": "dfghjk"
+    },
+    {
+        "name": "indu",
+        "username": "indu",
+        "password": "1",
+        "email": "indu@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "indu",
+        "username": "indu",
+        "password": "1",
+        "email": "indu@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "x",
+        "username": "x",
+        "password": "1",
+        "email": "x@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "x",
+        "username": "x",
+        "password": "1",
+        "email": "x@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "x",
+        "username": "x",
+        "password": "1",
+        "email": "x@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "x",
+        "username": "x",
+        "password": "1",
+        "email": "x@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "x",
+        "username": "x",
+        "password": "1",
+        "email": "x@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "g",
+        "username": "g",
+        "password": "2",
+        "email": "g@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "g",
+        "username": "g",
+        "password": "2",
+        "email": "g@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "g",
+        "username": "g",
+        "password": "2",
+        "email": "g@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "g",
+        "username": "g",
+        "password": "2",
+        "email": "g@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "g",
+        "username": "g",
+        "password": "2",
+        "email": "g@gmail.com",
+        "dob": null,
+        "phone_number": 0,
+        "age": 0,
+        "address": 0
+    },
+    {
+        "name": "m",
+        "username": "m",
+        "password": "2",
+        "email": "m@gmail.com",
+        "dob": "2023-09-13",
+        "phone_number": "111111111111",
+        "age": "13",
+        "address": "sdfghkl;"
+    }
+]
