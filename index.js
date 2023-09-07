@@ -65,6 +65,34 @@ $(document).ready(function() {
     
     
 });
+     $(document).ready(function () {
+    $("#register-form").submit(function (event) {
+        event.preventDefault();
+        var newPassword = $("#regPassword").val();
+        var confirmPassword = $("#confirmPassword").val();
+
+        if (newPassword != confirmPassword) {
+            $("#passwordMismatchPopup").modal("show");
+        } else {
+            $.ajax({
+                type: "POST",
+                url: "registration_process.php", 
+                data: $(this).serialize(),
+                success: function (response) {
+                    var responseData = JSON.parse(response);
+                    if (responseData.status === "success") {
+                        console.log(response);
+                    } else {
+                       console.log(response);
+                    }
+                },
+                error: function (xhr, status, error) {
+        
+                }
+            });
+        }
+    });
+});
 $(document).ready(function() {
   
     $('#openProfileModal').click(function() {
